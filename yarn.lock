@@ -2184,6 +2184,11 @@
     "@ethersproject/properties" "^5.5.0"
     "@ethersproject/strings" "^5.5.0"
 
+"@fontsource/karla@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/karla/-/karla-4.5.0.tgz#f38e39e698a3efd60db46513fafbd3996aeae3fc"
+  integrity sha512-ULtbpNQ8Dw4kcdwG6bPkp9HMBFVsHbdNRzYaCE5vWfZPcSj1r0eIFW/cpUPqnpmspZpTCtltPAwaXkpA5/q4sQ==
+
 "@fontsource/montserrat@^4.5.1":
   version "4.5.1"
   resolved "https://registry.yarnpkg.com/@fontsource/montserrat/-/montserrat-4.5.1.tgz#64a33ffdb77bbc63484c0321710bed272cc5b16f"

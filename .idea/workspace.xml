@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fee0afe-d01c-4efb-b67d-04d8bf0be0ad" name="Default Changelist" comment="" />
+    <list default="true" id="1fee0afe-d01c-4efb-b67d-04d8bf0be0ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/home/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home/hooks/useCheckWallet.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/home/hooks/useCheckWallet.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home/hooks/useHomeActions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/home/hooks/useHomeActions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/testContract.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/testContract.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,6 +49,11 @@
     <property name="ts.external.directory.path" value="C:\crypto\projects\decentralizedvlad\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\crypto\projects\decentralizedvlad\public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637511122759</updated>
-      <workItem from="1637511124673" duration="5386000" />
+      <workItem from="1637511124673" duration="14590000" />
     </task>
     <servers />
   </component>
