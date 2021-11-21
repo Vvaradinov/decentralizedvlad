@@ -3,7 +3,7 @@ import {
     ChakraProvider, extendTheme, Flex, Text,
 } from "@chakra-ui/react"
 import {default as HomeMain} from "./home/Main"
-import {FaDiscord, FaLinkedin, FaTwitter} from "react-icons/all";
+import {FaLinkedin, FaTwitter} from "react-icons/all";
 import {SocialButton} from "./common/SocialButton";
 
 
